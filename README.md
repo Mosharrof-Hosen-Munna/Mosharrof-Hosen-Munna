@@ -41,6 +41,7 @@
 
 ### **🗄️ Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### **☁️ Deployment & Hosting**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
