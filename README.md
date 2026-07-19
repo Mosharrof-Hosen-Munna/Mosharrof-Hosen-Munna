@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosharrof Hosen Munna</h1>
-<h3 align="center">Full-Stack Web Developer with 4+ years of hands-on experience in JavaScript and the MERN stack. Experienced in building scalable web applications using React.js, Node.js, Express.js, and MongoDB, PostgreSQL. Strong foundation in REST APIs, authentication, and responsive UI development, with a passion for writing clean, maintainable code and continuously learning new technologies.</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Next.js Prisma, AI**
 
